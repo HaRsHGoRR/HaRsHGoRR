@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/harsh-gor-7095b2262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-gor-7095b2262" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh._.gor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh._.gor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/HaRsH-GoR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh gor" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@HaRsH-GoR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harsh gor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
