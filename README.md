@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm HaRsH</h1>
+<marquee>This text will scroll from right to left</marquee>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgorr&label=Profile%20views&color=0e75b6&style=flat" alt="harshgorr" /> </p>
