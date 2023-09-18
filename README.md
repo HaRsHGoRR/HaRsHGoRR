@@ -24,11 +24,11 @@
 
 - 🌱 I’m currently learning **Frameworks and other stuffs**
 
-- 💬 Ask me about **Android,ML,JAVA ENV.**
+- 💬 Ask me about **Android,ML,JAVA ENV.,Cyber Security**
 
 - 📫 How to reach me **heet.s.gor@gmail.com**
 
-- ⚡ Fun fact **Whats the fun you know? +Read More......+**
+- ⚡ Fun fact **Whats the fun you know? +I AM Funny :>+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
