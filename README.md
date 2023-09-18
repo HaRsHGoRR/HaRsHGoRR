@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=35&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+HaRsH+GoR++;"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%#00FFFF&size=35&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+HaRsH+GoR++;"></a>
 </p>
 <h3 align="center">A passionate Software developer from India</h3>
 
