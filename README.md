@@ -15,7 +15,7 @@
 
  <a href  = "https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  /></a></p>
 
-- 🔭 I’m currently working on **Chatty APP**
+- 🔭 I’m currently working on **DevTube APP**
 
 - 🌱 I’m currently learning **Frameworks and other stuffs**
 
